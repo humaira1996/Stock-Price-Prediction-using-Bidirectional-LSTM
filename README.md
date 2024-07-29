@@ -10,7 +10,7 @@ In this notebook, stock market data, particularly for NVDA stocks, will be exami
 5. Visualization <br>
 
 
-### Summary
+### Trend Analysis (Feature Engineering)
 Before building the model, data analysis was performed on NVDA stock market trends. The closing price and stock volume were plotted to observe trends over the years. A moving average was calculated and plotted to smooth out short-term fluctuations.
 
 #### Risk Analysis
